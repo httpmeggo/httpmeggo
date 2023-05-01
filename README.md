@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Megan Nicius (@httpmeggo), a computer science student and software developer at New York University.
+- 👋 Hi, I’m Megan Nicius (@httpmeggo), a computer science student and software developer at New York University and a former Amazon SDE intern.
 - 👀 I’m interested in application development and full-stack software development.
 - 🌱 I’m currently cryptography & security, robotics, and honing my skills in C/C++ programming.
 - 💞️ I’m looking to collaborate on all sorts of projects, so feel free to reach out to me if you'd like to collaborate.
