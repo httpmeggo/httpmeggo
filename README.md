@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Megan Nicius (@httpmeggo), a software developer and NYU alumna, as well as a former Amazon SDE intern.
+- 👋 Hi, I’m Megan Nicius (@httpmeggo), a software developer at Amazon and an NYU alumna.
 - 👀 I’m interested in application development and ML software development.
 - 🌱 I’m currently honing my skills in machine learning and NLP.
-- 💞️ I’m looking to collaborate on all sorts of projects, so feel free to reach out to me if you'd like to collaborate.
+- 💞️ I’m looking to collaborate on all sorts of projects, so feel free to reach out to me if you have any fun ideas.
 - 📫 You can send me an email at megan.nicius@gmail.com!
 
 <!---
